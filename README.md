@@ -13,7 +13,7 @@ Soy un programador apasionado por la Ciencia de Datos. Actualmente, trabajo en l
 
 ¡Sígueme en [LinkedIn](www.linkedin.com/in/joanespada)!  
 
-Para proyectos academicos, seguime en mi otra cuenta de Github :  - [Github Academico]([https://github.com/JoanEspadaUNSAM)
+Para proyectos academicos, seguime en mi otra cuenta de Github :  - [Github Academico](https://github.com/JoanEspadaUNSAM) !
 <!---
 JoanEspada/JoanEspada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
