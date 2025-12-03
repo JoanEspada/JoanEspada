@@ -4,6 +4,8 @@ Estudiante avanzado de Ciencia de Datos (UNSAM) y pasante IT en Boehringer Ingel
 
 Me apasiona transformar datos en conocimiento accionable y construir soluciones escalables usando Python, SQL y herramientas Cloud.
 
+Además, estoy altamente interesado en el desarrollo de aplicaciones funcionales, participando en todo el ciclo: desde la construcción lógica hasta el deploy.
+
 ### 🚀 Tecnologías & Herramientas 🚀
 - **Lenguajes:** Python, SQL
 - **Data & Machine Learning:** Pandas, NumPy, Scikit-Learn, PyMC, PowerBI, Looker
